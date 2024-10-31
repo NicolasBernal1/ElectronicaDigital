@@ -1,0 +1,9 @@
+{
+  "ssid" : "moto g42_6799",
+  "password" : "00000000",
+  "host" : "https://industrial.api.ubidots.com",
+  "port" : 1883,
+  "client_id" : "iotweatherstation",
+  "device_label" : "iotweatherstation",
+  "token" : "BBUS-x2AsQaf4Pnw28R2PFz1Dcf53jUqKXL"
+}
